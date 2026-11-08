@@ -1,2 +1,1 @@
-print ("texto modificado")
-print ("que tal el curso")
+print ("Hello Github")
